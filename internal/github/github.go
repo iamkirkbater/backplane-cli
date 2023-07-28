@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/openshift/backplane-cli/internal/upgrade"
+	"github.com/iamkirkbater/backplane-cli/internal/upgrade"
 )
 
 var (

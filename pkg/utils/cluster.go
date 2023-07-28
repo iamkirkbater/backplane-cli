@@ -9,7 +9,7 @@ import (
 	logger "github.com/sirupsen/logrus"
 	"k8s.io/client-go/tools/clientcmd"
 
-	"github.com/openshift/backplane-cli/pkg/cli/config"
+	"github.com/iamkirkbater/backplane-cli/pkg/cli/config"
 )
 
 type BackplaneCluster struct {
